@@ -14,7 +14,7 @@
 [ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@rajasekhar9860) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naga-Rajasekhar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Naga Rajasekhar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naga-Rajasekhar&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-Rajasekhar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
