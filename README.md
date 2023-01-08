@@ -2,6 +2,7 @@
   Hii there 👋 I'm Naga Rajasekhar
 </h1
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshtalari&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshtalari" /> </p>
 
 - 🌱 I’m currently learning ... Fullstack Web-Development with JavaScript 
 - 📫 How to reach me: ...
